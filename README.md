@@ -1,6 +1,11 @@
-# Welcome to GitHub
+# Introduction to Biotech Blueprint 
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+The Blueprint sets up a virtual data center by creating virtual private clouds (VPCs) in AWS account. It automatically configures this infrastructure for identity management,
+access control, encryption key management, network configuration, logging, alarms, partitioned environments (for example, to separate preclinical, clinical, and management
+processes), and built-in compliance auditing.
+
+The Biotech Blueprint eliminates guesswork, common mistakes, and delays by encapsulating and delivering AWS best practices for cloud computing in turnkey fashion. 
+
 
 ## Repositories
 
