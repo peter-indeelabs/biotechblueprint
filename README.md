@@ -6,6 +6,7 @@ processes), and built-in compliance auditing.
 
 The Biotech Blueprint eliminates guesswork, common mistakes, and delays by encapsulating and delivering AWS best practices for cloud computing in turnkey fashion. 
 
+The following documents step-by-step instructions of Biotech Blueprint deployment on Indee AWS account:
 
 ## Repositories
 
